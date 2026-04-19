@@ -1,12 +1,12 @@
 {
-  "export_job_id": "db6d9b2e-2073-41e7-a8a8-a270ced31fbc",
+  "export_job_id": "3b00da87-f153-4b45-9f20-5e514e13e587",
   "id_short": 552719,
-  "published_at": "2026-04-13T19:15:55Z",
+  "published_at": "2026-04-19T19:08:24Z",
   "repo_name": "all-restaurants-in-pompano-beach-florida-us-sample-552719",
   "sample_asset_name": "beamstation_552719_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/552719/beamstation_552719_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 29,
-  "sample_sha256": "f1b6f899ebe58bc0a5d60f7e89952ba0853603fa3135477b4b164fdb244e8ad0",
-  "sample_size_bytes": 123589,
-  "total_records": 296
+  "sample_records": 27,
+  "sample_sha256": "48f71923b023de4644a903b04a4906f063f7318f63c5174a18a14c389bf4a441",
+  "sample_size_bytes": 110032,
+  "total_records": 279
 }
